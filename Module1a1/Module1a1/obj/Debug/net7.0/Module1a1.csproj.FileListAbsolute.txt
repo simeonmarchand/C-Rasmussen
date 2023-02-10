@@ -1,0 +1,15 @@
+/Users/simeonmarchand/Projects/C#/Module1a1/Module1a1/bin/Debug/net7.0/Module1a1
+/Users/simeonmarchand/Projects/C#/Module1a1/Module1a1/bin/Debug/net7.0/Module1a1.deps.json
+/Users/simeonmarchand/Projects/C#/Module1a1/Module1a1/bin/Debug/net7.0/Module1a1.runtimeconfig.json
+/Users/simeonmarchand/Projects/C#/Module1a1/Module1a1/bin/Debug/net7.0/Module1a1.dll
+/Users/simeonmarchand/Projects/C#/Module1a1/Module1a1/bin/Debug/net7.0/Module1a1.pdb
+/Users/simeonmarchand/Projects/C#/Module1a1/Module1a1/obj/Debug/net7.0/Module1a1.csproj.AssemblyReference.cache
+/Users/simeonmarchand/Projects/C#/Module1a1/Module1a1/obj/Debug/net7.0/Module1a1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simeonmarchand/Projects/C#/Module1a1/Module1a1/obj/Debug/net7.0/Module1a1.AssemblyInfoInputs.cache
+/Users/simeonmarchand/Projects/C#/Module1a1/Module1a1/obj/Debug/net7.0/Module1a1.AssemblyInfo.cs
+/Users/simeonmarchand/Projects/C#/Module1a1/Module1a1/obj/Debug/net7.0/Module1a1.csproj.CoreCompileInputs.cache
+/Users/simeonmarchand/Projects/C#/Module1a1/Module1a1/obj/Debug/net7.0/Module1a1.dll
+/Users/simeonmarchand/Projects/C#/Module1a1/Module1a1/obj/Debug/net7.0/refint/Module1a1.dll
+/Users/simeonmarchand/Projects/C#/Module1a1/Module1a1/obj/Debug/net7.0/Module1a1.pdb
+/Users/simeonmarchand/Projects/C#/Module1a1/Module1a1/obj/Debug/net7.0/Module1a1.genruntimeconfig.cache
+/Users/simeonmarchand/Projects/C#/Module1a1/Module1a1/obj/Debug/net7.0/ref/Module1a1.dll
